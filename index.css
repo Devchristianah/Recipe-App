@@ -34,7 +34,7 @@ body{
 /*  */
 .container{
     min-height: 100vh;
-    background-image: url(kitchen-recipe.webp);
+    background-image: url('./kitchen-recipe.webp');
 }
 .meal-wrapper{
     max-width: 1280px;
